@@ -28,7 +28,7 @@ The GSUR Data Automation Tool has two features. An automated downloader tool tha
 # Installation & Setup
 The GSUR Automation tool has two main iterations available for you to set up and use. One version utilizes the Python Requests library, while the other uses the Python web automation library Selenium. Setup instructions for both versions are described below. As a general reference, the Requests implementation is the most recently worked-on version, so its support is the most updated.
 > [!NOTE]
-> While this project can function if you are to run it. This program is not suitable for people with EMMA accounts to login into the host site.
+> While this project can function, only people with EMMA accounts to login into the host site can access the full functionality of it.
 
 - This is optional step you can take before the installation & setup section to help keep the project libraries seperate
 - ***(OPTIONAL)*** Create a virtual environment if you choose to do so
